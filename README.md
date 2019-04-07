@@ -1,7 +1,7 @@
 
 This is sample project using gRPC with DDD architecture.
 
-# prerequisites
+# Prerequisites
 
 ```
 % npm install -g grpcc
@@ -10,13 +10,13 @@ This is sample project using gRPC with DDD architecture.
 % cat 'PORT=50055' > .env
 ```
 
-# run server 
+# Run server 
 
 ```
 % make run
 ```
 
-# connect server
+# Connect server
 
 ```
 % make grpcc
